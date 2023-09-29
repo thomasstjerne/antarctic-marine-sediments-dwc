@@ -1,0 +1,4 @@
+# deduplicate lines
+cd archive
+awk -F'\t' '!seen[$1,$21]++{data[$1,$21]=$0}
+      END{for (i in seen) if (seen[i]==1) print data[i]}' dna_w_dupes.txt > dna.txt

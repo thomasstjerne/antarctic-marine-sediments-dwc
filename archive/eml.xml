@@ -1,0 +1,207 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="2afaca55-5c1e-456e-be07-53fc268035d7/v1.2" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+
+<dataset>
+  <alternateIdentifier>2afaca55-5c1e-456e-be07-53fc268035d7</alternateIdentifier>
+  <alternateIdentifier>https://ipt.biodiversity.aq/resource?r=antarctic_marine_sediment_microbes</alternateIdentifier>
+  <title xml:lang="eng">(GBWG DNA extension test) Microbial (Bacteria, 16S) Diversity in Antarctic marine sediments (Admiralty Bay and Bransfield Strait)</title>
+      <creator>
+    <individualName>
+        <givenName>Diego</givenName>
+      <surName>Franco</surName>
+    </individualName>
+    <organizationName>Universidade de São Paulo</organizationName>
+    <address>
+        <city>São Paulo</city>
+        <country>BR</country>
+    </address>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Camila</givenName>
+      <surName>Signori</surName>
+    </individualName>
+    <organizationName>Universidade de São Paulo</organizationName>
+    <address>
+        <city>São Paulo</city>
+        <country>BR</country>
+    </address>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Rubens</givenName>
+      <surName>Duarte</surName>
+    </individualName>
+    <organizationName>Universidade Federal de Santa Catarina</organizationName>
+    <address>
+        <city>Florianópolis</city>
+        <country>BR</country>
+    </address>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Cristina</givenName>
+      <surName>Nakayama</surName>
+    </individualName>
+    <organizationName>Universidade Federal de São Paulo</organizationName>
+    <address>
+        <city>Diadema</city>
+    </address>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Lucia</givenName>
+      <surName>Campos</surName>
+    </individualName>
+    <organizationName>Universidade Federal do Rio de Janeiro</organizationName>
+    <address>
+        <city>Rio de Janeiro</city>
+        <country>BR</country>
+    </address>
+      </creator>
+      <creator>
+    <individualName>
+        <givenName>Vivian</givenName>
+      <surName>Pellizari</surName>
+    </individualName>
+    <organizationName>Universidade de São Paulo</organizationName>
+    <address>
+        <city>São Paulo</city>
+        <country>BR</country>
+    </address>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Maxime</givenName>
+      <surName>Sweetlove</surName>
+    </individualName>
+    <organizationName>Royal Belgian Institute for Natural Sciences</organizationName>
+    <positionName>Research assistent</positionName>
+    <address>
+        <deliveryPoint>Rue Vautier 29</deliveryPoint>
+        <city>Brussels</city>
+        <postalCode>1000</postalCode>
+    </address>
+    <electronicMailAddress>msweetlove@naturalsciences.be</electronicMailAddress>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+      <surName></surName>
+    </individualName>
+    <role>user</role>
+      </associatedParty>
+  <pubDate>
+      2019-03-19
+  </pubDate>
+  <language>eng</language>
+  <abstract>
+    <para>amplicon dataset of Bacteria (16S ssh rRNA marker gene) found Antarctic marine sediments (Admiralty Bay and Bransfield Strait), sampled in December 2008.</para>
+  </abstract>
+      <keywordSet>
+            <keyword>Metadata</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+  </intellectualRights>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>King George Island, Antarctica</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-58.476</westBoundingCoordinate>
+          <eastBoundingCoordinate>-58.17</eastBoundingCoordinate>
+          <northBoundingCoordinate>-62.08</northBoundingCoordinate>
+          <southBoundingCoordinate>-62.293</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>2008-12-01</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2008-12-06</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Bacteria 16S ssh rRNA</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>domain</taxonRankName>
+                <taxonRankValue>Bacteria</taxonRankValue>
+                  <commonName>Bacteria</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Diego</givenName>
+      <surName>Franco</surName>
+    </individualName>
+    <organizationName>Universidade de São Paulo</organizationName>
+    <address>
+        <city>São Paulo</city>
+        <country>BR</country>
+    </address>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>Genomic DNA was extracted from 0.25 g of surface sediment in quadruplicate using a PowerSoil DNA Kit (MoBio, Carlsbad, CA, USA), according to the manufacturer’s instructions. Microbial 16S rRNA gene fragments were amplified using a set of primers designed by adding a 10-nucleotide barcode to the forward primer, 519F, (5′-CAGCMGCCGCGGTAATWC-3′) and reverse primer 1068R (5′-CTGACGRCRGCCATGC-3′). The amplification reaction was carried out using the Accuprime pfx SuperMix (Thermo Scientific, USA) according to the manufacturer. PCR was performed with a thermal cycler (Thermo Scientific, USA) under the following conditions: 95°C for 5 min, 26 cycles of 95°C for 15 s, 59°C for 30 s and 68°C for 1 min. The PCR products were purified by using a DNA clean &amp; concentrator kit (Zymo Research, USA).</para>
+          </description>
+        </methodStep>
+        <methodStep>
+          <description>
+            <para>The amplicons from each sample were mixed at equimolar concentrations and then sequenced using GSFLX titanium instruments and reagents (Roche 454, Life Sciences, USA) at the Center for Advanced Technologies in Genomics (University of São Paulo, Brazil).</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>Surface sediment samples were collected along a bathymetric gradient in King George Island (stations 1–9, depths ranging from 100 to 502 m) and NBB – Bransfield Strait (stations 10–15, depths 693–1,147 m), located in the Northwestern Antarctic Peninsula. Sampling was conducted by the Brazilian Navy vessel NApOc Ary Rongel during the austral summer, December 2008.</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>In total, 15 samples of marine sediments were collected using a Mini Box Corer (MBC) at different depths. The top 5 cm of sediments were transferred to sterile Whirl-Pack sample bags (Nasco, WI, USA) and stored frozen onboard (-20°C). Samples were shipped to the University of São Paulo (USP) after 4 months of sampling.</para>
+        </samplingDescription>
+      </sampling>
+  </methods>
+  <project >
+    <title>Microbial Diversity in Antarctic marine sediments</title>
+      <personnel>
+        <individualName>
+            <givenName>Diego</givenName>
+          <surName>Franco</surName>
+        </individualName>
+        <role></role>
+      </personnel>
+      <funding>
+        <para>This dataset was funded by the Brazilian Antarctic Program (PROANTAR), and the Brazilian National Council for Scientific and Technological Development – CNPq (MABIREH/IPY/CAML Project n. 520293/2006-1).</para>
+      </funding>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2018-12-13T11:09:25.783+01:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation>Franco D, Signori C, Duarte R, Nakayama C, Campos L, Pellizari V (2018): Microbial (Bacteria, 16S) Diversity in Antarctic marine sediments (Admiralty Bay and Bransfield Strait). v1.2. SCAR - Microbial Antarctic Resource System. Dataset/Metadata. https://ipt.biodiversity.aq/resource?r=antarctic_marine_sediment_microbes&amp;v=1.2</citation>
+          <bibliography>
+                <citation>Franco, D. C., Signori, C. N., Duarte, R. T., Nakayama, C. R., Campos, L. S., &amp; Pellizari, V. H. (2017). High prevalence of gammaproteobacteria in the sediments of admiralty bay and north bransfield Basin, Northwestern Antarctic Peninsula. Frontiers in microbiology, 8, 153.</citation>
+          </bibliography>
+          <dc:replaces>2afaca55-5c1e-456e-be07-53fc268035d7/v1.2.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

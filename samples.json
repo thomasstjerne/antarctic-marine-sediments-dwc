@@ -1,0 +1,107 @@
+[
+    {
+      "sample": "SRS1596272",
+      "eventID": "10",
+      "run": "SRR3997476",
+      "pipeline": "4.1",
+      "analysis": "MGYA00215089"
+    },
+    {
+      "sample": "SRS1596266",
+      "eventID": "4",
+      "run": "SRR3997470",
+      "pipeline": "4.1",
+      "analysis": "MGYA00215090"
+    },
+    {
+      "sample": "SRS1596270",
+      "eventID": "8",
+      "run": "SRR3997474",
+      "pipeline": "4.1",
+      "analysis": "MGYA00215091"
+    },
+    {
+      "sample": "SRS1596263",
+      "eventID": "15",
+      "run": "SRR3997468",
+      "pipeline": "4.1",
+      "analysis": "MGYA00215092"
+    },
+    {
+      "sample": "SRS1596260",
+      "eventID": "12",
+      "run": "SRR3997465",
+      "pipeline": "4.1",
+      "analysis": "MGYA00215093"
+    },
+    {
+      "sample": "SRS1596261",
+      "eventID": "2",
+      "run": "SRR3997463",
+      "pipeline": "4.1",
+      "analysis": "MGYA00215094"
+    },
+    {
+      "sample": "SRS1596262",
+      "eventID": "13",
+      "run": "SRR3997466",
+      "pipeline": "4.1",
+      "analysis": "MGYA00215095"
+    },
+    {
+      "sample": "SRS1596265",
+      "eventID": "3",
+      "run": "SRR3997469",
+      "pipeline": "4.1",
+      "analysis": "MGYA00215096"
+    },
+    {
+      "sample": "SRS1596268",
+      "eventID": "6",
+      "run": "SRR3997472",
+      "pipeline": "4.1",
+      "analysis": "MGYA00215097"
+    },
+    {
+      "sample": "SRS1596258",
+      "eventID": "1",
+      "run": "SRR3997462",
+      "pipeline": "4.1",
+      "analysis": "MGYA00215098"
+    },
+    {
+      "sample": "SRS1596269",
+      "eventID": "7",
+      "run": "SRR3997473",
+      "pipeline": "4.1",
+      "analysis": "MGYA00215099"
+    },
+    {
+      "sample": "SRS1596271",
+      "eventID": "9",
+      "run": "SRR3997475",
+      "pipeline": "4.1",
+      "analysis": "MGYA00215100"
+    },
+    {
+      "sample": "SRS1596264",
+      "eventID": "14",
+      "run": "SRR3997467",
+      "pipeline": "4.1",
+      "analysis": "MGYA00215101"
+    },
+    {
+      "sample": "SRS1596267",
+      "eventID": "5",
+      "run": "SRR3997471",
+      "pipeline": "4.1",
+      "analysis": "MGYA00215102"
+    },
+    {
+      "sample": "SRS1596259",
+      "eventID": "11",
+      "run": "SRR3997464",
+      "pipeline": "4.1",
+      "analysis": "MGYA00215103"
+    }
+  ]
